@@ -17,6 +17,7 @@
 		2F61D1D127A01814007CA499 /* Questions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F61D1D027A01814007CA499 /* Questions.swift */; };
 		2F61D1D327A08E4F007CA499 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F61D1D227A08E4F007CA499 /* Game.swift */; };
 		2FE0D41427A0DE8800527FB2 /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE0D41327A0DE8700527FB2 /* QuestionView.swift */; };
+		2FE0D41627A1799400527FB2 /* QuestionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE0D41527A1799400527FB2 /* QuestionManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		2F61D1D027A01814007CA499 /* Questions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Questions.swift; path = OpenQuizzzzz/Questions.swift; sourceTree = SOURCE_ROOT; };
 		2F61D1D227A08E4F007CA499 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		2FE0D41327A0DE8700527FB2 /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; wrapsLines = 1; };
+		2FE0D41527A1799400527FB2 /* QuestionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				2F61D1D027A01814007CA499 /* Questions.swift */,
+				2FE0D41527A1799400527FB2 /* QuestionManager.swift */,
 				2F61D1D227A08E4F007CA499 /* Game.swift */,
 			);
 			path = Model;
@@ -184,6 +187,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F61D1BA279F8C1B007CA499 /* ViewController.swift in Sources */,
+				2FE0D41627A1799400527FB2 /* QuestionManager.swift in Sources */,
 				2F61D1D327A08E4F007CA499 /* Game.swift in Sources */,
 				2F61D1D127A01814007CA499 /* Questions.swift in Sources */,
 				2F61D1B6279F8C1B007CA499 /* AppDelegate.swift in Sources */,
